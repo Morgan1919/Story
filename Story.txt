@@ -2,7 +2,7 @@ I woke up
 I got dressed
 I brushed my teeth
 I had Breakfest
-I biked to school
+I drove to school
 I went to first period
 I went to second period
 I went to third period
@@ -11,7 +11,7 @@ I went to fifth period
 I went to lunch
 I went to seventh period
 I went to eighth period
-I biked home
+I took the train home
 I had a snack
 I did homework
 I ate dinner
