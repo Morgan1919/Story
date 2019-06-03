@@ -3,14 +3,14 @@ I got dressed
 I brushed my teeth
 I had Breakfest
 I drove to school
-I went to first period
-I went to second period
-I went to third period
-I went to fourth period
-I went to fifth period
+I went to 1st period
+I went to 2nd period
+I went to 3rd period
+I went to 4th period
+I went to 5th period
 I went to lunch
-I went to seventh period
-I went to eighth period
+I went to 7th period
+I went to 8th period
 I took the train home
 I had a snack
 I did homework
